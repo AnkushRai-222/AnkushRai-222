@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushrai-222&label=Profile%20views&color=0e75b6&style=flat" alt="ankushrai-222" /> </p>
 
-- 🔭 I’m interested in **Back-end Development**
+- 🔭  **Back-end Development**
 
 - 🌱 I’m currently learning **Node.js,MongoDB,Express.js, Mongoose etc..**
 
